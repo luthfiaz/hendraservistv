@@ -1,0 +1,16 @@
+.nav li a {
+ 	display:block;
+}
+
+.nav li a:hover {
+ 	background-color: rgb(6, 6, 6);
+}
+
+.layer-header {
+    background: rgba(64,72,74,0.9);
+    /*position: absolute;*/
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
